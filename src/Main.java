@@ -44,6 +44,7 @@ public class Main {
     System.out.println("Количество дней при потере веса 500г/день составляет " + lostTime500 + " дней.");
     System.out.println("Среднее количество дней для потери 7 кг составляет " + averigeTime + " дней.");
     System.out.println();
+
     float Zarplata1Masha = 67760;
     float Zarplata1Denis = 83690;
     float Zarplata1Kristina = 76230;
